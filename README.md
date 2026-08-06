@@ -44,11 +44,9 @@ I'm a data scientist who enjoys turning complex data into practical, decision-re
 
 | Project | What it demonstrates | Tools |
 | :-- | :-- | :-- |
-| [Project 1 — Customer churn prediction in telecommunications company](https://github.com/laperezortiz/Data-Science-Projects/tree/main/Churn_telecomm_project) | Developed an end-to-end ML pipeline including exploratory data analysis, feature engineering, dataset merging,
-correlation analysis, train/validation/test split, scaling, and model tuning. Trained and evaluated multiple models using manual hyperparameter tuning and GridSearchCV. Achieved an AUC-ROC of 0.8468 and accuracy of 0.7332 on the test set. | Pandas · Scikit-learn · Matplotlib · Catboost · LightGBM |
+| [Project 1 — Customer churn prediction in telecommunications company](https://github.com/laperezortiz/Data-Science-Projects/tree/main/Churn_telecomm_project) | Developed an end-to-end ML pipeline including exploratory data analysis, feature engineering, dataset merging, correlation analysis, train/validation/test split, scaling, and model tuning. Trained and evaluated multiple models using manual hyperparameter tuning and GridSearchCV. Achieved an AUC-ROC of 0.8468 and accuracy of 0.7332 on the test set. | Pandas · Scikit-learn · Matplotlib · Catboost · LightGBM |
 | [Project 2 — Gold recovery prediction](https://github.com/laperezortiz/Data-Science-Projects/tree/main/Gold_extraction_prediction_project) | Built predictive models to estimate gold recovery rates using cleaned and processed data. Designed a custom evaluation metric (sMAPE) and applied cross-validation for robust evaluation. Achieved a final sMAPE of 9.3305%. | Pandas · NumPy · Scikit-learn · Matplotlib · Scipy |
 | [Project 3 — Face identification for age verification](https://github.com/laperezortiz/project-3) | Performed exploratory data analysis and preprocessing on image data. Implemented a deep learning pipeline using pretrained ResNet50. Built a functional pipeline using Google Colab GPU under compute constraints (partial training completed). | Keras · Tensorflow · Pandas · Matplotlib · Seaborn |
-https://github.com/laperezortiz/Data-Science-Projects/tree/9d3814210088fb1e96900d405fe2824add531eee/Churn_telecomm_project
 
 ---
 
